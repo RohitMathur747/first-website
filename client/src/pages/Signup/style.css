@@ -1,0 +1,12 @@
+.signup-container {
+    padding: 30px;
+    min-width: 700px;
+    width: 8vw ;
+    border: 1px solid rgba(0, 0, 0, 0.501);
+    margin: 50px auto;
+    border-radius: 5px;
+}
+.signup-container>h3 {
+    color: rgb(64, 64, 64);
+    text-align: center;
+}

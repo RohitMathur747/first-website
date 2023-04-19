@@ -1,0 +1,28 @@
+.input-container{
+    border:1px solid rgb(191, 191, 191);
+    margin: 10px 0 5px 0;
+    padding: 10px;
+}
+.input-container.shink > label{
+    position: absolute;
+    color: rgb(151, 151, 151);
+    transition: transform .1s linear;
+}
+.input-container input {
+    border: none; 
+    outline: none;
+    width: 100%;
+}
+.border-c-bl {
+    border-color: rgb(72, 127, 255);
+}
+.at-top {
+    transform: translate(-8px,-20px);
+    background-color: white;
+    font-size: 12px;
+    padding: 2px 5px;
+    color: rgb(72, 127, 255) !important;
+}
+.c-gray {
+    color: rgb(151, 151, 151) !important;
+}

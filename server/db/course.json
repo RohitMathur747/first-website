@@ -1,0 +1,93 @@
+[
+    {
+    "name":"MERN",
+    "description":"",
+    "onGoingBatches":[{
+        "batchCode" : "76NE1",
+        "trainer" : {
+            "id" : "JSP001",
+            "name" : "Tejas M"
+        }
+    },{
+        "batchCode" : "76RE1",
+        "trainer" : {
+            "id" : "JSP002",
+            "name" : "Mr Basappa" 
+        }
+
+ },{
+     "batchCode" : "76JS1",
+     "trainer" : {
+        "id" : "JSP003",
+        "name" : "Mr Kishore"
+     }
+ }],
+    "trainers":[
+        {
+            "name":"MR.Kishore Reddy",
+            "experiace":"5-6 years",
+            "Role":"MERN Head"
+        },
+        {
+            "name":"MR.Tejas Kumar",
+            "experiace":"2-3 years",
+            "Role":"Trainer"
+        },
+        {
+            "name":"MR.Basappa",
+            "experiace":"2-3 years",
+            "Role":"Trainer"
+        }
+    ],
+    "onGoiningBatches":[2023],
+    "technology" : ["HTML","CSS","JAVASCRIPT","REACT","NODEJS","EXPRESSJS","MONGO DB","SQL"]
+    },
+    {
+    "name":"JAVA",
+    "description":"",
+    "recentBatches":[2020,2021,2022],
+    "trainers":[
+        {
+            "name":"MR.Raveesh",
+            "experiace":"5-6 years",
+            "Role":"JAVA Head"
+        }
+    ],
+    "onGoingBatches":[{
+        "batchCode" : "76NE1",
+        "trainer" : {
+            "id" : "JSP001",
+            "name" : "Tejas M"
+        }
+    },{
+        "batchCode" : "76RE1",
+        "trainer" : {
+            "id" : "JSP002",
+            "name" : "Mr Basappa" 
+        }
+
+ },{
+     "batchCode" : "76JS1",
+     "trainer" : {
+        "id" : "JSP003",
+        "name" : "Mr Kishore"
+     }
+ }],
+    "technology" : ["HTML","CSS","JAVA","SPRING BOOT","JAVASCRIPT","SQL"]
+    },
+    {
+    "name":"PYTHON",
+    "description":"",
+    "recentBatches":[2020,2021,2022],
+    "trainers":[
+        {
+            "name":"MR.Santosh Kumar",
+            "experiace":"5-6 years",
+            "Role":"Trainer"
+        }
+    ],
+    "onGoiningBatches":[2023],
+    "technology" : ["HTML","CSS","PYTHON","SQL"]
+    }
+
+]
