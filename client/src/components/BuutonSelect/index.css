@@ -1,0 +1,17 @@
+.s-btn-container {
+    display: flex;
+    margin: 5px 0;
+    gap: 20px;
+    row-gap: 20px;
+    flex-wrap: wrap;
+}
+.s-btn {
+    padding: 7px 20px;
+    border: 1px solid rgb(193, 193, 193);
+    background:none ;
+    font-size: 1rem;
+    color: rgb(61, 61, 61);
+}
+.s-btn.active {
+    background-color: rgb(193, 193, 193);
+}

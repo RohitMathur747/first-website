@@ -10,18 +10,12 @@ class Navbar extends Component {
     }
     render() {
         return <div className='navbar'>
-            <h1 className='brand'><span>JS</span>riders</h1>
+            <h1 className='brand'><span>J</span>spiders</h1>
             <ul>
-                <li>
-                    <a href="">Home</a>
-                </li>
-                <li> <a href="">Course</a>
-                </li>
-                <li>
-                    <a href="">About</a>
-
-                </li>
-                <li> <a href="">Signup</a></li>
+                <li><a href="">Home</a></li>
+                <li><a href="">Course</a></li>
+                <li><a href="">About</a></li>
+                <li><a href="">Signup</a></li>
             </ul>
         </div>
     }

@@ -4,6 +4,7 @@ const hostName = "127.0.0.8";
 const PORT = 5050;
 
 const app = http.createServer((req,res) => {
+    console.log("request")
     rootRouter(req,res);
 });
 

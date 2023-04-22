@@ -5,7 +5,8 @@ const rootRouter = (req,res) => {
     const {url,method} = req;
     switch(url) {
         case "/student" :
-            studentRouter(method,res);
+            console.log("student")
+            studentRouter(req,res);
             return;
         case "/course" :
             courseRouter(method,res);

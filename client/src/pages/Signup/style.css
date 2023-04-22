@@ -6,7 +6,8 @@
     margin: 50px auto;
     border-radius: 5px;
 }
-.signup-container>h3 {
+.signup-container>h1 {
+    margin:10px 0px; 
     color: rgb(64, 64, 64);
     text-align: center;
 }
